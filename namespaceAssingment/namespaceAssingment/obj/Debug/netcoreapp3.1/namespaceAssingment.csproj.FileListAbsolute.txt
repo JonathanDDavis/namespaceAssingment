@@ -1,0 +1,13 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.exe
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\bin\Debug\netcoreapp3.1\namespaceAssingment.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\namespaceAssingment\namespaceAssingment\obj\Debug\netcoreapp3.1\namespaceAssingment.genruntimeconfig.cache
